@@ -14,3 +14,30 @@ main{
   margin: auto;  
   box-shadow: 3px 3px 5px rgba(19, 111, 165, 0.397);
 }
+
+.tenis{
+    float: right;
+    width: 100%;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    padding: 3.7px;
+    border: #4263eb solid 
+}
+
+.beachtenis{
+    float: right;
+    width: 100%;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    padding: 3.7px;
+    border: #4263eb solid 
+}
+
+.logo{
+  float: center;
+  padding: 3.7px;
+  width: 100px;
+  height: 100px;
+}
